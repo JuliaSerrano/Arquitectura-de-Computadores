@@ -2,7 +2,7 @@
 **************************
         ORG     $0
         DC.L    $8000           * Pila
-        DC.L    INICIO4          * PC
+        DC.L    INICIO          * PC
 		
         ORG     $400
 
